@@ -6,7 +6,7 @@ body{
     grid-template: 30% 40% 30%;
 }
 
-.galaxy {
+.galaxy{
     align-content: center;
     background-image: url("galaxy.jpeg");
     background-repeat: no-repeat;
@@ -18,7 +18,7 @@ body{
     align-content: center;
 }
 
-h1 {
+h1{
     font-size: 5em;
     color:white;
     margin:auto;
@@ -29,7 +29,7 @@ h1 {
     font-family: sans-serif;
 }
 
-h3 {
+h3{
     padding: 20px;
     margin-bottom: -10px;
     font-family: sans-serif;
