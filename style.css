@@ -5,6 +5,7 @@ body{
     display: grid;
     grid-template: 30% 40% 30%;
 }
+
 .galaxy {
     align-content: center;
     background-image: url("galaxy.jpeg");
